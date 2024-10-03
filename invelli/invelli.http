@@ -1,0 +1,6 @@
+@invelli_HostAddress = http://localhost:5255
+
+GET {{invelli_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
